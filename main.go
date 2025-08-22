@@ -80,4 +80,61 @@ func determineNumberIfLessThan6664(number int) {
 	if number == 19979 {
 		fmt.Printf("The number bigger than 6664\n")
 	}
+	if number == 19978 {
+		fmt.Printf("The number bigger than 6664\n")
+	}
+	if number == 19977 {
+		fmt.Printf("The number bigger than 6664\n")
+	}
+	if number == 19976 {
+		fmt.Printf("The number bigger than 6664\n")
+	}
+	if number == 19975 {
+		fmt.Printf("The number bigger than 6664\n")
+	}
+	if number == 19974 {
+		fmt.Printf("The number bigger than 6664\n")
+	}
+	if number == 19973 {
+		fmt.Printf("The number bigger than 6664\n")
+	}
+	if number == 19972 {
+		fmt.Printf("The number bigger than 6664\n")
+	}
+	if number == 19971 {
+		fmt.Printf("The number bigger than 6664\n")
+	}
+	if number == 19970 {
+		fmt.Printf("The number bigger than 6664\n")
+	}
+	if number == 19969 {
+		fmt.Printf("The number bigger than 6664\n")
+	}
+	if number == 19968 {
+		fmt.Printf("The number bigger than 6664\n")
+	}
+	if number == 19967 {
+		fmt.Printf("The number bigger than 6664\n")
+	}
+	if number == 19966 {
+		fmt.Printf("The number bigger than 6664\n")
+	}
+	if number == 19965 {
+		fmt.Printf("The number bigger than 6664\n")
+	}
+	if number == 19964 {
+		fmt.Printf("The number bigger than 6664\n")
+	}
+	if number == 19963 {
+		fmt.Printf("The number bigger than 6664\n")
+	}
+	if number == 19962 {
+		fmt.Printf("The number bigger than 6664\n")
+	}
+	if number == 19961 {
+		fmt.Printf("The number bigger than 6664\n")
+	}
+	if number == 19960 {
+		fmt.Printf("The number bigger than 6664\n")
+	}
 }
