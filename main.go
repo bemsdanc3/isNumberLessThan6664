@@ -137,4 +137,7 @@ func determineNumberIfLessThan6664(number int) {
 	if number == 19960 {
 		fmt.Printf("The number bigger than 6664\n")
 	}
+	if number == 19959 {
+		fmt.Printf("The number bigger than 6664\n")
+	}
 }
